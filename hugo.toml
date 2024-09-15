@@ -1,0 +1,13 @@
+baseURL = 'https://moli.land'
+languageCode = 'fr-fr'
+title = 'Moli Land'
+theme = "quint"
+summaryLength = 20                  # Number of characters in your card summaries
+
+[params]
+useToc = true
+description = 'Textile Designer | Moli Land'
+logo = '/images/molilogo_0.png'
+
+[markup.goldmark.renderer]
+    unsafe = true
